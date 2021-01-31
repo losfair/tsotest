@@ -64,4 +64,5 @@ fn main() {
             println!("progress: {}", i);
         }
     }
+    std::process::exit(0);
 }
